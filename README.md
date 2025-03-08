@@ -26,8 +26,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/equation-visualizer.git
-   cd equation-visualizer
+   git clone https://github.com/A-Vamshi/EquationVisualizer.git
+   cd EquationVisualizer
    ```
 
 2. Install dependencies:

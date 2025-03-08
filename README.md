@@ -17,7 +17,7 @@ Ensure you have the following installed:
   ```sh
   pip install streamlit sympy numpy matplotlib google-generativeai python-dotenv
   ```
-- A valid OpenAI API key stored in a `.env` file:
+- A valid Google API key stored in a `.env` file:
   ```sh
   echo "API_KEY=your_google_api_key_here" > .env
   ```

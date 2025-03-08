@@ -87,7 +87,7 @@ The input:
 
 st.title("Equation Visualizer")
 inputText = st.text_input("Enter the expression: ")
-if st.button("Graph the quation"):
+if st.button("Graph the equation"):
     input2 = getContent(inputText, prompt)
     print(input2)
     eqn = parse_equation(input2)

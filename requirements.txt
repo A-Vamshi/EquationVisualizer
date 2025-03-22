@@ -2,3 +2,4 @@ matplotlib
 google-generativeai
 streamlit
 python-dotenv
+sympy

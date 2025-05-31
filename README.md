@@ -9,6 +9,11 @@ Equation Visualizer is a Streamlit-based web application that allows users to in
 - Plots the function using Matplotlib.
 - Handles errors such as undefined variables, division by zero, and invalid syntax.
 
+## 📷 Demo
+<img src="/images/1.png" alt="screenshot" width="1000"/> <img src="/images/2.png" alt="screenshot" width="1000"/>
+<img src="/images/3.png" alt="screenshot" width="1000"/>
+<img src="/images/4.png" alt="screenshot" width="1000"/>
+
 ## Requirements
 Ensure you have the following installed:
 
